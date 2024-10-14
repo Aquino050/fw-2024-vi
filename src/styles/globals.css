@@ -1,1 +1,10 @@
 @import 'bootstrap/dist/css/bootstrap.min.css';
+
+body {
+    margin: 0;
+    padding: 0;
+    background: rgb(193, 172, 212);
+    background: linear-gradient(180deg, rgba(193, 172, 212, 1) 0%, rgba(242, 242, 242, 1) 87%);
+    min-height: 100vh;
+    font-size: larger;
+}
